@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaqayeq-Kordloo
 - 👀 I’m interested in coding,playing guitar and travelling
-- 🌱 I’m currently learning javascript
+- 🌱 I’m a nurse, but trying to learn Front-End!
 - 📫 How to reach me : shaghayegh.kordloo@gmail.com
 
 <!---
